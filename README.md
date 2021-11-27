@@ -4,5 +4,6 @@ A simple full stack application which uses node, react, java and python to make 
 
 
 References:
-* This project is based off of the following article 
-  -> https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/
+
+This project is based off of the following article 
+* https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/
